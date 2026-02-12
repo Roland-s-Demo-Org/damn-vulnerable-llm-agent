@@ -1,3 +1,6 @@
+--extra-index-url https://pypi.aikido.io/d31fc8ec94e6da07d307d63f10e418931d6
 streamlit
 langchain==0.0.306
 openai==0.28.1
+
+anyio==3.7.1.post1+tuxcare
